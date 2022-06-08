@@ -3,6 +3,8 @@
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/101163927/172531478-aef0a295-4812-4cc0-9184-46af5b7cb9f5.png">
+
 
 GIVEN a command-line application that accepts user input
 
