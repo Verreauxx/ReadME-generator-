@@ -6,6 +6,7 @@ SO THAT I can quickly create a professional README for a new project
 https://vimeo.com/718164213
 
 HOW TO RUN 
+
 Open integrated terminal and run npm install
 
 Then type out node .\index.js
