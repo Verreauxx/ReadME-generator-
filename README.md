@@ -5,13 +5,15 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 https://vimeo.com/718164213
 
+HOW TO RUN 
+Open integrated terminal and run npm install
+
+Then type out node .\index.js
+
 <img width="458" alt="image" src="https://user-images.githubusercontent.com/101163927/172531478-aef0a295-4812-4cc0-9184-46af5b7cb9f5.png">
 
 
-HOW TO RUN 
-Open integrated terminal and run npm install
-Then type out node .\index.js
-
+=
 GIVEN a command-line application that accepts user input
 
 WHEN I am prompted for information about my application repository
